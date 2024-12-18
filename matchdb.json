@@ -1,0 +1,56 @@
+{
+    "单挑赛": {
+        "type1": 0,
+        "type2": 1,
+        "times": -1,
+        "max_player_num": 2,
+        "enroll_start_time": "2000",
+        "enroll_end_time": "2050-8-10",
+        "discribe": "单挑不是单挑，快刀才是快刀",
+        "rules": "...",
+        "editors": [
+            "宇宙大王"
+        ],
+        "choice_team_order": []
+    },
+    "老登局8": {
+        "type1": 2,
+        "type2": 2,
+        "times": -1,
+        "max_player_num": 8,
+        "enroll_start_time": "2000",
+        "enroll_end_time": "2050-8-10",
+        "discribe": "",
+        "rules": "",
+        "editors": [
+            "宇宙大王"
+        ],
+        "choice_team_order": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "老登局6": {
+        "type1": 2,
+        "type2": 2,
+        "times": -1,
+        "max_player_num": 6,
+        "enroll_start_time": "2000",
+        "enroll_end_time": "2050-8-10",
+        "discribe": "",
+        "rules": "",
+        "editors": [
+            "宇宙大王"
+        ],
+        "choice_team_order": [
+            0,
+            1,
+            1,
+            0
+        ]
+    }
+}
